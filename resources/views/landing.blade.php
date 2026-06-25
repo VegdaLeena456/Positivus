@@ -337,7 +337,6 @@
                 <div class="mt-7 space-y-5 text-lg leading-7">
                     <p>Email: info@positivus.com</p>
                     <p>Phone: 555-567-8901</p>
-                    <p>Phone: 1234567890</p>
                     <p class="mx-auto max-w-[360px] lg:mx-0">Address: 1234 Main St<br>Moonstone City, Stardust State 12345</p>
                 </div>
             </address>
