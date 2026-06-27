@@ -303,7 +303,7 @@
                 </form>
 
                 <div class="relative hidden min-h-[520px] lg:block" aria-hidden="true">
-                    <img class="absolute -right-44 top-1/2 w-[520px] -translate-y-1/2" src="{{ asset('images/positivus/contact-illustration.svg') }}" alt="" loading="lazy">
+                    <img class="absolute -right-44 top-1/2 w-[520px] -translate-y-1/2" src="{{ asset('images/positivus/Illustration.png') }}" alt="" loading="lazy">
                 </div>
             </div>
         </section>
